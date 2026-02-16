@@ -1,77 +1,12 @@
-# Music Business Development Portfolio
 
-A dynamic, visually striking portfolio website showcasing 12+ years of experience in music licensing, business development, and creative project management.
 
-## 🎵 Live Demo
-
-Once deployed, your portfolio will be live at: `https://yourusername.github.io/portfolio`
-
-## ✨ Features
-
-- **Bold Visual Design** - Music industry aesthetic with distinctive typography and animations
-- **Compelling Storytelling** - Origin story highlighting early work with Burna Boy, Tems, and Omah Lay
-- **Measurable Impact** - Timeline showcasing 50% partnership growth, 40% sync fee increases, and more
-- **Project Showcase** - Notable placements including Coming 2 America, Grand Theft Auto, I May Destroy You
-- **Fully Responsive** - Works beautifully on desktop, tablet, and mobile
-- **Fast & Lightweight** - Pure HTML/CSS/JS with no dependencies
-
-## 🚀 Quick Deploy to GitHub Pages
-
-### Step 1: Create a GitHub Account
-If you don't have one, sign up at [github.com](https://github.com)
-
-### Step 2: Create a New Repository
-1. Click the **+** icon in the top right and select **New repository**
-2. Name it `portfolio` (or any name you prefer)
-3. Make it **Public**
-4. Do NOT initialize with README (we already have one)
-5. Click **Create repository**
-
-### Step 3: Upload Your Files
-**Option A: Using GitHub Web Interface (Easiest)**
-1. On your new repository page, click **uploading an existing file**
-2. Drag and drop both `index.html` and `README.md` into the upload area
-3. Scroll down and click **Commit changes**
-
-**Option B: Using Git Command Line**
-```bash
-# Navigate to your portfolio folder
-cd path/to/portfolio-site
-
-# Initialize git
-git init
-
-# Add files
-git add .
-
-# Commit
-git commit -m "Initial portfolio launch"
-
-# Add remote (replace YOUR_USERNAME and YOUR_REPO)
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
-
-# Push to GitHub
-git branch -M main
-git push -u origin main
-```
-
-### Step 4: Enable GitHub Pages
-1. Go to your repository on GitHub
-2. Click **Settings** tab
-3. Click **Pages** in the left sidebar
-4. Under **Source**, select **main** branch
-5. Click **Save**
-6. Wait 1-2 minutes, then visit `https://YOUR_USERNAME.github.io/YOUR_REPO`
-
-## 🎨 Customization Guide
-
-### Update Your Personal Information
+### SYLVIA NZEAKOR
 Open `index.html` and search for these sections to customize:
 
 **Line 183-185** - Update your name and contact info:
 ```html
-<div class="eyebrow">MUSIC BUSINESS DEVELOPMENT EXECUTIVE</div>
-<h1>Building Bridges Between<br>Artists & Opportunity</h1>
+<div class="eyebrow">SYLVIA NZEAKOR</div>
+<h1>MUSIC BUSINESS DEVELOPMENT EXECUTIVE</h1>
 ```
 
 **Line 186** - Update your bio:
